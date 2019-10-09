@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B080A6A9-4740-467F-BCFE-B748480687F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructure/PalindromeChecker.cs">
+    <Files>
+      <File FileName="DataStructure/Hashing.cs" Line="1" Column="1" />
+      <File FileName="DataStructure/Utility.cs" Line="417" Column="18" />
+      <File FileName="DataStructure/TrialUnOrderedList.cs" Line="28" Column="16" />
+      <File FileName="DataStructure/RangedPrimeNumber.cs" Line="34" Column="76" />
+      <File FileName="DataStructure/WEEKDAY.cs" Line="46" Column="14" />
+      <File FileName="DataStructure/Calendar.cs" Line="21" Column="67" />
+      <File FileName="DataStructure/OrderedList.cs" Line="29" Column="32" />
+      <File FileName="DataStructure/SimpleBalancedParanthesis.cs" Line="25" Column="51" />
+      <File FileName="DataStructure/Customer.cs" Line="4" Column="4" />
+      <File FileName="DataStructure/BankingCashCounter.cs" Line="38" Column="82" />
+      <File FileName="DataStructure/PalindromeChecker.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bridgelabz" expanded="True">
+            <Node name="Bridgelabz" expanded="True">
+              <Node name="DataStructure" expanded="True">
+                <Node name="PalindromeChecker.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bridgelabz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

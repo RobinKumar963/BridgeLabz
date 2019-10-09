@@ -1,0 +1,26 @@
+﻿
+
+namespace BridgeLabzLibrary
+{
+    class Input2DArray
+    {
+		
+        public static void Input2DArray<T>(T[,] arr, int row, int col) where T : IConvertible
+        {
+            String value;
+            for (int i = 0; i < row; i++)
+            {
+                for (int j = 0; j < col; j++)
+                {
+                    value = Console.ReadLine();
+                    arr[i, j] = (T)Convert.ChangeType(value, typeof(T));
+
+
+
+                }
+            }
+
+        }
+
+    }
+}
